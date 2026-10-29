@@ -74,11 +74,11 @@ Repeated the Nmap scan and Lynis audit after the configuration change.
 
 ### Nmap Before Firewall Hardening
 
-![Before UFW](screenshots/nmap-before-ufw.png)
+![Before UFW](evidence/nmap-before-ufw.png)
 
 ### Nmap After Firewall Hardening
 
-![After UFW](screenshots/nmap-after-ufw.png)
+![After UFW](evidence/nmap-after-ufw.png)
 
 The repeated assessment demonstrated the following:
 
